@@ -1,4 +1,4 @@
-# -Multilevel_Model
+# Multilevel_Model
 Multilevel models, also known as hierarchical linear models or mixed-effect models, are statistical models that recognize the existence of data structures at multiple levels or hierarchies.
 
 These models are useful for analyzing data with complex structures, such as data that can be grouped at different levels. For example, students within classes, within schools; or employees within departments, within companies. This hierarchy in data could potentially lead to violation of independence assumptions if not addressed correctly.
